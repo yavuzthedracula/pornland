@@ -1,3 +1,5 @@
+! Founded by @yavuzthedracula
+
 A python framework application for download videos on porn sites!
 
 # Progress
