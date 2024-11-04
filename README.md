@@ -5,4 +5,4 @@
 - `python main.py`
 
 # Abilities 💥
-- PornHub
+- Download PornHub Videos
