@@ -6,4 +6,4 @@
 
 # Abilities
 - PornHub
-- XVideos
+- XHamster
