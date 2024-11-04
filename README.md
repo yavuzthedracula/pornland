@@ -1,2 +1,5 @@
-# pip install -r requirements.txt
-# python main.py
+# Progress
+- `pip install -r requirements.txt`
+- `python main.py`
+
+# 
