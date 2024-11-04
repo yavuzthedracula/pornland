@@ -1,4 +1,4 @@
-**🔥 Created by @yavuzthedracula**
+**Created by @yavuzthedracula** 🔥
 
 # Progress 💦
 - `pip install -r requirements.txt`
