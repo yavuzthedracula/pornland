@@ -1,8 +1,8 @@
 **🔥 Created by @yavuzthedracula**
 
-# Progress
+# Progress 💦
 - `pip install -r requirements.txt`
 - `python main.py`
 
-# Abilities
+# Abilities 💥
 - PornHub
