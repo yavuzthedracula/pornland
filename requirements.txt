@@ -1,0 +1,4 @@
+bs4
+PyQt5
+sys
+requests
