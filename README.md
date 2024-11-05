@@ -1,8 +1,6 @@
-**Created by @yavuzthedracula** 🔥
-
-# Progress 💦
+# How To Install
 - `pip install -r requirements.txt`
 - `python main.py`
 
-# Abilities 💥
+# Abilities
 - Download PornHub Videos
