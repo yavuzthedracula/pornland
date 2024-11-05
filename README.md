@@ -1,4 +1,4 @@
-Nice! You found a porn video and you want to download it, but... Where to download this video? oh shit premium? Hey just wait! This is where it's time to use Downloadhub, the supreme holy magic download tool of the Pornland Empire!
+Nice! You found a **porn video** and you want to **download it**, but... Where to download this video? ***~~oh shit premium?~~*** Hey just wait! This is where it's time to **use Downloadhub**, the supreme holy magic download tool of the **Pornland Empire!**
 
 # How To Install
 - `pip install -r requirements.txt`
