@@ -1,4 +1,4 @@
-bs4
-PyQt5
-sys
-requests
+requests==2.26.0
+beautifulsoup4==4.10.0
+regex==2021.11.10
+PyQt5==5.15.4
