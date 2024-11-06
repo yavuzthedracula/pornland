@@ -4,6 +4,3 @@ Nice! You found a **porn video** and you want to **download it**, but... Where t
 - FFMPEG Needed
 - `pip install -r requirements.txt`
 - `python pornhub.py`
-
-# Abilities
-- Download PornHub Videos
